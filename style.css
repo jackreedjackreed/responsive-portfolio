@@ -1,0 +1,13 @@
+/*
+ * Globals
+ */
+
+/* Links */
+a,
+a:focus,
+a:hover {
+  color: #fff;
+}
+container {
+  max-width: 42em;
+}

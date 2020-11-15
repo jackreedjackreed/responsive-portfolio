@@ -11,3 +11,8 @@ a:hover {
 container {
   max-width: 42em;
 }
+
+#bio-pic: {
+  max-width: 100%;
+  height: auto;
+}

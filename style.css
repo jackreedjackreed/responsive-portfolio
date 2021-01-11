@@ -23,5 +23,10 @@ container {
   height: auto;
 }
 
+#coding-pic {
+  max-width: 100%
+}
 
-
+.banana {
+  background-color: salmon;
+}

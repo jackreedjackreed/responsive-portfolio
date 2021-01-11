@@ -14,9 +14,9 @@ container {
   max-width: 42em;
 }
 
-#masterContainer {
+/* #masterContainer, container {
   background-color: blanchedalmond;
-}
+} */
 
 #bio-pic {
   max-width: 30%;

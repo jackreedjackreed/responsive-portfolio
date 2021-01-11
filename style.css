@@ -2,6 +2,8 @@
  * Globals
  */
 
+ 
+
 /* Links */
 a,
 a:focus,
@@ -12,7 +14,14 @@ container {
   max-width: 42em;
 }
 
-#bio-pic: {
-  max-width: 100%;
+#masterContainer {
+  background-color: blanchedalmond;
+}
+
+#bio-pic {
+  max-width: 30%;
   height: auto;
 }
+
+
+
